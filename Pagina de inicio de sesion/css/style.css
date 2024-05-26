@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0
+    ;
+}
+
+.fondo{
+    background-color: rgba(160, 191, 209, 0.911);
+}
+main{
+    background-color: white;
+    border: 0,5px ;
+    border-radius: 2%;
+    margin: 83px 220px;
+}
+.icon{
+    padding-top: 10px;
+    padding-bottom: 0%;
+    color: rgb(42, 172, 247);
+    width: 45px;
+    height: 35px;
+    margin-left: 310px;
+}
+
+h1{
+    text-align: center;
+    font-size: 120px;
+    -webkit-text-stroke: 1.3px black; /* Contorno negro de 2px */
+    padding-top: 0;
+    /* text-shadow:  2px 2px 0 #000, Sombra negra en la dirección 2px 2px */
+    /* -2px -2px 0 #000, Sombra negra en la dirección -2px -2px */
+    /* 2px -2px 0 #000, Sombra negra en la dirección 2px -2px */
+    /* -2px 2px 0 #000; Sombra negra en la dirección -2px 2px; */
+
+}
+
+.segunda{
+    padding-top: 20px;
+    padding-left: 45px;
+    padding-right: 30px;
+}
+
+.tercera{
+    padding-top: 42px;
+    padding-left: 45px;
+    padding-right: 30px;
+}
+input {
+        width: 470px;
+        height: 40px;
+        border: 1px solid #cec8c8; /*Borde más oscuro*/
+        border-radius: 5px; 
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+        background-color: #fff; 
+} 
+    
+label{
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuarto{
+    padding-top: 22px;
+    padding-left: 45px;
+    padding-right: 30px;
+    
+}
+button{
+    background-color: rgb(60, 123, 206);
+    color: white;
+    width: 470px;
+    height: 45px;
+    border: 1px solid #cec8c8;
+    border-radius: 10px; 
+}
+
+.textbot{
+    padding: 9px;
+}
+.quinto{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+ }
+
+
+
+.psegun{
+    font-size: 13px;
+    padding-right: 30px;
+}
